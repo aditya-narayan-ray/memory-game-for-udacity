@@ -1,17 +1,21 @@
-# Memory-Game
+# Memory Game Project
 
-This is a complete browser-based card matching game.
+Classic Memory Game
 
-#### In Each turn:
+### How to play
 
-* The player flips one card over to reveal its underlying symbol.
-* The player then turns over a second card, trying to find the corresponding card with the same symbol.
-* If the cards match, both cards stay flipped over.
-* If the cards do not match, both cards are flipped face down.
-* The game ends once all cards have been correctly matched.
+* Open https://github.com/aditya-narayan-ray/memory-game-for-udacity. This is the game.
+* Clicking on tiles will turn them over so that you can see what lies on them. 
+* Your goal is to match two tiles of the same type at a time.
+* Then try to match all pairs in as minimum moves as possible.
+
+### Screenshots
+
+![Mobile view](https://i.imgur.com/pBc6kln.png)
 
 
-## How to Run: 
+### External libraries Used
 
-1. [Download](https://github.com/aditya-narayan-ray/memory-game-for-udacity/archive/master.zip) or [Clone](https://github.com/aditya-narayan-ray/memory-game-for-udacity.git) the Repository.
-2. Open `index.html` file to view the project in your browser.
+* jQuery
+* [animate.css](https://github.com/daneden/animate.css)
+* [vex](http://github.hubspot.com/vex/)
